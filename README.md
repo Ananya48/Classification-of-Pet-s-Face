@@ -56,5 +56,5 @@ Ensure you have a dataset of pet images. The dataset should be organized in the 
         ...
 ```
 
-You can either use an existing dataset (e.g., [Kaggle](https://www.kaggle.com/)) or prepare your own.
+You can either use an existing dataset (e.g., [Kaggle](https://wwww.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset)) or prepare your own.
 
