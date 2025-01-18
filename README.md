@@ -37,7 +37,7 @@ To run the notebook, the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Ananya48/Classification-of-Pet-s-Face.git
+   git clone https/github.com/Ananya48/Classification-of-Pet-s-Face/blob/main/Classification_of__Pet's__Face.ipynb
    ```
 
 ## Dataset
